@@ -2,7 +2,7 @@
 using Contacts.Common.Entities;
 using Contacts.Common.Resources;
 
-namespace Bacchus.Common.Mappings;
+namespace Contacts.Common.Mappings;
 
 public class RoleMapping : Profile
 {

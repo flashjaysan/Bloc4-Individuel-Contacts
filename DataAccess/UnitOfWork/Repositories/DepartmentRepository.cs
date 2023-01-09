@@ -1,6 +1,5 @@
 ﻿using Contacts.Common.Entities;
 using Contacts.DataAccess.DbContext;
-using System.Data;
 
 namespace Contacts.DataAccess.UnitOfWork.Repositories;
 
