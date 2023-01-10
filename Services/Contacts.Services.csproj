@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Business\Business.csproj" />
-    <ProjectReference Include="..\Common\Common.csproj" />
-    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\Business\Contacts.Business.csproj" />
+    <ProjectReference Include="..\Common\Contacts.Common.csproj" />
+    <ProjectReference Include="..\DataAccess\Contacts.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

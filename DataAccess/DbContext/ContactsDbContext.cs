@@ -1,6 +1,5 @@
 ﻿using Contacts.DataAccess.EntitiesConfigurations;
 using Contacts.Common.Entities;
-using Contacts.DataAccess.EntitiesConfigurations;
 using Microsoft.EntityFrameworkCore;
 
 namespace Contacts.DataAccess.DbContext;
